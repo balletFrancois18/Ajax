@@ -47,4 +47,3 @@ function setMarkers(map) {
 window.initMap = initMap;
 
 
-fgree'erg
